@@ -81,12 +81,12 @@ header {
 header .container,
 nav ul {
     display: flex;
-    flex-wrap: wrap;
     justify-content: space-between;
     align-items: center;
 }
 
 nav ul {
+    flex-wrap: wrap;
     list-style: none;
     gap: 16px;
     padding: 24px 0;
